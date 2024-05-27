@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "413443310776",
+    "project_id": "ordyk-b16bf",
+    "storage_bucket": "ordyk-b16bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413443310776:android:cf85364e407542c96aa04d",
+        "android_client_info": {
+          "package_name": "com.example.ordyk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5xQYQpblyBa-vIXVS4jjBb8dQabu6bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
